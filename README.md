@@ -5,7 +5,7 @@ This is a Brute Force attack on computers using a Wordlist. This Program prompts
   - Host Computer (Your PC): Not Used
   - Guest Computer (Virtual Machine): Kali Linux
   - Target Computer (Virtual Machine): MetaSploitable
-      -The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+      - The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
   - Language: Python
       - Files imported include :
           - paramiko (Gets SSH client necessary to identify machine IP and user)
