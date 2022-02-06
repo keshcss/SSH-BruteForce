@@ -1,8 +1,4 @@
-# Disclaimer
-- Please take saftey measures before testing out these programs. It could be potentially exposing your computer to dangers while performing such test. 
-- Please use Virtual machines such as VMware or VirtualBox. Both are free and safe to use.
-
-## SSH-BruteForce
+# SSH-BruteForce
 This is a Brute Force attack on computers using a Wordlist. This Program prompts for the IP address of targeted machine, the user's name and the wordlist selecting.
 
 ## More About Project:
@@ -21,3 +17,7 @@ This is a Brute Force attack on computers using a Wordlist. This Program prompts
           - termcolor (for aesthical purposes, to differentiate between valid and invalid entries)
   - Wordlist: created a .txt file and randomly included words that can be potential passwords.
       - For  testing purposes: Remember to include the password of your target device, to ensure your program can pick up correct passwords.
+
+# Disclaimer
+- Please take saftey measures before testing out these programs. It could be potentially exposing your computer to dangers while performing such test. 
+- Please use Virtual machines such as VMware or VirtualBox. Both are free and safe to use.
